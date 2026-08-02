@@ -4,7 +4,7 @@ I built this project to explore how the 2026 AI/HBM memory chip shortage disrupt
 Micron's revenue trajectory — and to see, concretely, how far a "business as usual"
 forecast would have missed reality.
 
-**[View my interactive Tableau dashboard →]([PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/syed.hasnain7947/viz/MicronUnderPressureFinancialImpactofthe2026AIMemoryChipShortage/Dashboard1))**
+**[View my interactive Tableau dashboard →](https://public.tableau.com/app/profile/syed.hasnain7947/viz/MicronUnderPressureFinancialImpactofthe2026AIMemoryChipShortage/Dashboard1)**
 
 ## The question I wanted to answer
 
